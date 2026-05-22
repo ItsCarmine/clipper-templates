@@ -1,6 +1,4 @@
-Templates for [Obsidian Web Clipper](https://github.com/obsidianmd/obsidian-clipper). Works with the templates in [my Obsidian vault](https://github.com/kepano/kepano-obsidian).
-
-To install templates, see instructions in the official [Obsidian Web Clipper documentation](https://help.obsidian.md/web-clipper/templates) repo.
+Templates for [Obsidian Web Clipper](https://github.com/obsidianmd/obsidian-clipper). To install templates, see instructions in the official [Obsidian Web Clipper documentation](https://help.obsidian.md/web-clipper/templates) repo.
 
 ## Templates
 
